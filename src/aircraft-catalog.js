@@ -78,5 +78,25 @@ export const additionalModels = [
       0
     ],
     "changes": "Centered, scaled to physical dimensions, and aligned for DroneSim."
+  },
+  {
+    "id": "x-frame-quadcopter",
+    "name": "X-frame quadcopter",
+    "size": 0.6844,
+    "category": "quadcopter",
+    "group": "drone",
+    "author": "Innerscene",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/quadcopter-with-flight-electronics-a25968c1",
+    "distributor": "https://www.innerscene.com/tools/library/3d-parts/quadcopter-with-flight-electronics-a25968c1",
+    "distributorName": "Innerscene",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "url": "/models/x-frame-quadcopter.glb",
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "changes": "Centered, scaled to physical dimensions, and aligned for DroneSim."
   }
 ];
