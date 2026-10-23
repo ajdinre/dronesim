@@ -58,5 +58,25 @@ export const additionalModels = [
       0
     ],
     "changes": "Centered, scaled to physical dimensions, and aligned for DroneSim."
+  },
+  {
+    "id": "delivery-quadcopter",
+    "name": "Delivery quadcopter",
+    "size": 0.8,
+    "category": "quadcopter",
+    "group": "drone",
+    "author": "amvlab",
+    "source": "https://github.com/amvlab/aircraft-models",
+    "distributor": "https://github.com/amvlab/aircraft-models",
+    "distributorName": "amvlab",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "url": "/models/delivery-quadcopter.glb",
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "changes": "Centered, scaled to physical dimensions, and aligned for DroneSim."
   }
 ];
